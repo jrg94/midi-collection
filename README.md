@@ -5,10 +5,13 @@ we've found thus far. For convenience, here's a table of contents:
 
 - [130,000 MIDI File Collection][5]
 - [800,000 MIDI Percussion File Collection][6]
+- [MIDI-sources][8]
+
+Feel free to add sections as sources are found. 
 
 ## 130,000 MIDI File Collection
 
-Our friend, midi_man, over at Reddit have provided us with a [130,000 Midi Collection][1].
+Our friend, midi_man, over at Reddit has provided us with a [130,000 Midi Collection][1].
 For the direct link to the download, [check out the mega archive][3]. The total size of the
 archive is 1.02 GB compressed and 3.65 GB uncompressed.
 
@@ -29,3 +32,4 @@ the archive is 890.9 MB compressed and 3.36 GB uncompressed.
 [5]: #130000-midi-file-collection
 [6]: #800000-midi-percussion-file-collection
 [7]: https://github.com/albertmeronyo/MIDI-sources
+[8]: #midi-sources
